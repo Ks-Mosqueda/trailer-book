@@ -1,0 +1,26 @@
+#logo {
+  width: 8vh;
+}
+
+.header1 {
+  background-color: black;
+}
+
+#watch {
+  background-color: #FFC947;
+}
+
+#reserve {
+  background-color: #FFC947;
+  margin-top: 3vh;
+}
+
+#available {
+  background-color: #FFC947;
+  margin-top: 3vh;
+}
+
+#share {
+  background-color: #FFC947;
+  margin-top: 3vh;
+}
